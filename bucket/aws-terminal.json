@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "Terminal UI for creating and managing AWS resources",
     "homepage": "https://github.com/ShAd0W20/aws-terminal",
     "license": "MIT",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/ShAd0W20/aws-terminal/releases/download/v0.2.1/aws-terminal_v0.2.1_windows_amd64.zip",
-  "hash": "4d64832324fe363e322657c75583964b31acc8c8ae9f4f24b800cd47b238777b"
+  "url": "https://github.com/ShAd0W20/aws-terminal/releases/download/v0.3.0/aws-terminal_v0.3.0_windows_amd64.zip",
+  "hash": "f55552a630895e7cb962de091070227d5c74c47ecdc042c033f0a08a0d0aaf3b"
         }
     },
     "bin": "aws-terminal.exe",
